@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Checked state: Tick SVG -->
+    <item android:state_checked="true" android:drawable="@drawable/tick_checkbox" />
+
+    <!-- Unchecked state: Default box (can be your default checkbox or an SVG) -->
+    <item android:drawable="@drawable/checkbox_empty" />
+</selector>
