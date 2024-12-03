@@ -42,7 +42,7 @@ AI-driven task prioritization.
 Clone this repository:
 bash
 Paste it
-git clone https://github.com/yourusername/quicklist.git
+git clone https://github.com/whybhav360/QuickList.git
 Open the project in Android Studio.
 Deploy and run the application on an Android emulator or device.
 License
