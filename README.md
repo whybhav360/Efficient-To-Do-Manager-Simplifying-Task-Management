@@ -36,6 +36,10 @@ Provides alert and reminder integration.
 AI-driven task prioritization.
 
 **Screenshots**
+![SplashScreen Screenshot](https://github.com/user-attachments/assets/33ef9964-c864-4434-8438-93a239b6c67b)
+![Home View Screenshot](https://github.com/user-attachments/assets/21b5c6b7-eac2-4af2-9ad8-325300c342b3)
+![Delete task Screenshot](https://github.com/user-attachments/assets/8b6f7908-e70d-4864-a775-03768b388ae7)
+![Checkox Screenshot](https://github.com/user-attachments/assets/d1334344-b359-4548-9bc7-38a12ad5e5c8)
 
 
 **Installation**
